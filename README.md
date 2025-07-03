@@ -1,5 +1,7 @@
 # 💸 M516 Investment Project – Micro-Investment Strategy Simulation (Bitcoin)
 
+[❗❗❗❗❗Presentation Video Link❗❗❗❗❗][❗ https://drive.google.com/file/d/1vxG5Y5h5i0d0MNMSJhMDftBY5KXx16vo/view?usp=sharing ❗]
+
 This repository contains my final project for the **M516 Business Project in Big Data & AI** at Gisma University of Applied Sciences.
 
 The project simulates a realistic micro-investment strategy using historical Bitcoin data, predictive modeling, and a rule-based simulation engine. It is designed as a modular, reproducible analysis pipeline in Python, built and documented entirely in a Jupyter Notebook.
@@ -67,7 +69,7 @@ Major dependencies include:
 
 🎥 Project Demo Video
 📹 A short 3–5 min demo video showcasing the project pipeline and results will be added here:
-[INSERT VIDEO LINK HERE]
+[https://drive.google.com/file/d/1vxG5Y5h5i0d0MNMSJhMDftBY5KXx16vo/view?usp=sharing]
 
 👤 Author
 Zakariyae EL KHALDI
